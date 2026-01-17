@@ -1,0 +1,5 @@
+   1 git inittry
+   2 git add testing.py
+   3 git status
+   4 git commit -m "Ashish added testing file"
+   5 git restore testing.py
